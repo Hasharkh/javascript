@@ -16,3 +16,19 @@ console.log(booleanIsLoggedIn);
 let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(stringNumber);
+//                                operations
+console.log("--------------------------------------------------------------------------------------------------------------------------------");
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2+2);
+console.log(1+"1"+"2");
+console.log(1+1+"2");
+
+console.log("---------------------------------------------------------------------------------------------");
+let x =5
+let a=5
+let y = x++
+let z= ++a
+
+console.table([y,z])
